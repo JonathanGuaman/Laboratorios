@@ -1,3 +1,2 @@
-# Laboratorios
-Objetivo General
-la discordia entre nosotros existe una ves leido esto :v
+# PRACTICA #1 (Leyes de Kipchon)
+
