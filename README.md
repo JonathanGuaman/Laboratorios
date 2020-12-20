@@ -9,7 +9,8 @@
 
 - Reconocer la relacion que trae entre el circuito en serie y en paralelo.
 - Calcular las caidas de corrientes y voltajes.
-- 
+- Familiarizar con el lenguaje tecnico con la ayuda de la practica en la plataforma de TINCKERCAD.
+
 
 
  
