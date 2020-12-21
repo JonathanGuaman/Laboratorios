@@ -11,6 +11,9 @@
 - Calcular las caidas de corrientes y voltajes.
 - Familiarizar con el lenguaje tecnico con la ayuda de la practica en la plataforma de TINCKERCAD.
 
+### MARCO TEORICO:
+
+ Al hablar de la ley de Kirchhoff hablamos de la ley de los nodos o de las corrientes electricas, es muy fundamental utilizar estas leyes al momento de realizar los calculos respectivos por el moti
 
 
  
