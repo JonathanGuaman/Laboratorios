@@ -21,3 +21,7 @@
  
   2.- LEYES DE LOS VOLTAJES: Se lo aplica en circuito cerrados donde la suma de los votajes de entrada  seran igual a la sumatoria de las caidas de los voltajes en cada uno de los componentes electricos cumunmente conocidos como resistores, esta ley de los voltajes se los aplica  al momento de tener inconvenientes al no poder ver claramente el comportamiento de las corrientes.
   
+![](https://github.com/JonathanGuaman/Laboratorios/blob/main/Img/Mapa%20Conceptual.png)
+
+### DIAGRAMAS:
+A continuacion vamos a resolver un ejercicio en lo que podamos applicar las leyes de Kirchhoff y la ley de Ohm para tener mas claro sobre el tema:
