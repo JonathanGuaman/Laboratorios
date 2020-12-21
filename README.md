@@ -19,3 +19,5 @@
  
  1.- LEYES DE LAS CORRIENTES: Generalmente lo conocemos como las  sumatoria algebraica de las corrientes electricas entrantes a un nodo electrico seran igual a la sumatoria algebraica de las corrientes electricas salientes tomando en cuenta que un nodo  electricos no mas que la union de 3 a mas componentes electricos.
  
+  2.- LEYES DE LOS VOLTAJES: Se lo aplica en circuito cerrados donde la suma de los votajes de entrada  seran igual a la sumatoria de las caidas de los voltajes en cada uno de los componentes electricos cumunmente conocidos como resistores, esta ley de los voltajes se los aplica  al momento de tener inconvenientes al no poder ver claramente el comportamiento de las corrientes.
+ 
