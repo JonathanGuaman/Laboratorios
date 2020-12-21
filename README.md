@@ -13,7 +13,5 @@
 
 ### MARCO TEORICO:
 
- Al hablar de la ley de Kirchhoff hablamos de la ley de los nodos o de las corrientes electricas, es muy fundamental utilizar estas leyes al momento de realizar los calculos respectivos por el moti
-
-
+ Al hablar de la ley de Kirchhoff hablamos de la ley de los nodos o de las corrientes electricas, es muy fundamental utilizar estas leyes al momento de realizar los calculos respectivos por el motivo que vamos  a ver circuitos mas complejos(Mixtos),                           
  
