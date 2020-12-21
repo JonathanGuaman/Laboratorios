@@ -21,4 +21,4 @@
  
   2.- LEYES DE LOS VOLTAJES: Se lo aplica en circuito cerrados donde la suma de los votajes de entrada  seran igual a la sumatoria de las caidas de los voltajes en cada uno de los componentes electricos cumunmente conocidos como resistores, esta ley de los voltajes se los aplica  al momento de tener inconvenientes al no poder ver claramente el comportamiento de las corrientes.
   
-  ![https://github.com/JonathanGuaman/Laboratorios/blob/main/Mapas%20Conceptual/Digrama1.png]()
+![](https://github.com/JonathanGuaman/Laboratorios/blob/main/Mapas%20Conceptual/Digrama1.png)
