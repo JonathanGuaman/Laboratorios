@@ -49,6 +49,8 @@ Circuito electrico:
 
 - 1 Protoboard
 
+- Simulador (TINKERCAD)
+
 ### EXPLICACION:
 
  A continuacion vamos a resolver un ejercicio de circuito electrico en la cual vamos aplicar todo lo que aprendimos sobre las leyes de Kirchhoff y la ley de Ohm:
@@ -66,6 +68,9 @@ Circuito electrico:
  A continuacion vamos a realizar los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
+
+
+
 
 
 
