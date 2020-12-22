@@ -67,7 +67,11 @@ Y obtenemos el siguiente circuito:
 
 Y continuamos hasta conseguir la resistencia  equivalente en este caso podremos sumar todas las resistencias por el motivo que esta su circuito en serie:
 
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)ç
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)
+
+Al momento de realizar los calculos respectivos obtenemos lo siguiente:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/7686e082ca4de913d3cb7e45c7d5df912e24af38/Img%20%20en%20TINCKERCAD/Resultados.png)
 
 
 
