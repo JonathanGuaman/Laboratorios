@@ -2,12 +2,15 @@
 
 ### Objetivo General:
 - Conocer las leyes de Kirchhoff que nos ayudara para el analisis de los circuitos electricos.
+
+- Utilizar simuladores que nos ayuda a comprender el comportamiento del voltaje y su corriente.
  
 - Calcular los voltajes y corrientes con la ayuda de las leyes de Ohm y la de Kirchoff.
 
 ### Objetivos Especificos:
 
 - Reconocer la relacion que trae entre el circuito en serie y en paralelo.
+- Comprobar los valores que nos da al momento de hacer los calculos tomando en cuenta que es un circuito ideal y comparar los resulatdos obtenidos con el simulador llamado TINKERCAD.
 - Calcular las caidas de corrientes y voltajes.
 - Familiarizar con el lenguaje tecnico con la ayuda de la practica en la plataforma de TINCKERCAD.
 
@@ -30,16 +33,6 @@ A continuacion vamos a resolver un ejercicio en lo que podamos applicar las leye
 
 Lo primero en realizar es hacer que el circuito electrico se haga mas pequeño por medio de sus resistencias para poder asi obtener un circuito mas facil de calcular:
 
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
-
-En esta parte del proceso nos encontramos en un caso particular por lo que tenemos que aplicar la  formula para encontrar la resistencia en un circuito en paralelo en lo cual obtendremos el siguiente circuito:
-
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)
-
-A continuacion los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
-
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
-
 ### LISTA DE COMPONENTES:
 
 - 1 Fuente de Voltaje
@@ -56,6 +49,23 @@ A continuacion los calculos realizados para encontrar las corrientes y voltajes 
 
 - 1 Protoboard
 
+### EXPLICACION:
+
+ A continuacion vamos a resolver un ejercicio de circuito electrico en la cual vamos aplicar todo lo que aprendimos sobre las leyes de Kirchhoff y la ley de Ohm:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
+
+ Lo primero en realizar es hacer que el circuito electrico se haga mas pequeño por medio de sus resistencias para asi obtener un circuito mas facil de calcular
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
+
+ En esta parte del proceso nos encontramos en un caso particular por lo que tenemos que aplicar la formula para encontrar la resistencia en un circuito en paralelo en lo cual obtendremos el siguiente circuito:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)
+
+ A continuacion vamos a realizar los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
 
 
 
