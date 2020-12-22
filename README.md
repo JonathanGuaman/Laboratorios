@@ -91,7 +91,8 @@ En nuestra conclusion personal llegamos a que es muy primordial saber las leyes 
 
 ### BIBLIOGRAFIA:
 
-![](http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/2750/2954/html/42_leyes_de_kirchhoff.html)
+![](https://www.rubenlijo.com/las-leyes-de-kirchhoff-explicadas-concepto-y-aplicacion-a-circuitos/)
+
 
 
 ### ANEXOS:
