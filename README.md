@@ -26,4 +26,36 @@
 ### DIAGRAMAS:
 A continuacion vamos a resolver un ejercicio en lo que podamos applicar las leyes de Kirchhoff y la ley de Ohm para tener mas claro sobre el tema:
 
-![](Img/Diagrama 2.png)
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
+
+Lo primero en realizar es hacer que el circuito electrico se haga mas pequeño por medio de sus resistencias para poder asi obtener un circuito mas facil de calcular:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
+
+En esta parte del proceso nos encontramos en un caso particular por lo que tenemos que aplicar la  formula para encontrar la resistencia en un circuito en paralelo en lo cual obtendremos el siguiente circuito:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)
+
+A continuacion los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
+
+### LISTA DE COMPONENTES:
+
+- 1 Fuente de Voltaje
+
+-  2  Multimetros Digitales
+
+- 1 Resistencias de 1KOhm
+
+- 2 Resistencias de 2,2KOhm
+
+- 1 Resistencia de 1,8KOhm
+
+- 1 Resistencia de 3,9 KOhm
+
+- 1 Protoboard
+
+
+
+
