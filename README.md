@@ -52,28 +52,9 @@ Circuito electrico:
 - Simulador (TINKERCAD)
 
 ### EXPLICACION:
-
- A continuacion vamos a explicar como aplicamos las leyes de Kirchhoff y la ley de Ohm para poder resolver el circuito electrico:
  
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
+ Lo primero que tenemos que identificar en el circuito es saber si aplicamos las ley de los nodos tomando en cuenta que se los aplica en la union de 3 a mas componentes para saber la corrientes que salen y entran en dicho nodo despues buscamos la manera de hacer las resistencias mas  pequeñas hasta poder tener un circuito mucho mas facil de calcular, y si no podemos usar la ley de la corrientes para calcular el la corriente en cada voltaje usamos la ley de los voltajes dependiendo de que nos esten pidiendo para calcular pero siempre tenemos que tener en las 2 leyes de Kirchhoff calculan las corrientes y voltajes entrantes y salientes con ello podemos identificar circuitos mas complejos 
 
- Lo primero que tenemos que identificar en el circuito es saber si aplicamos las ley de los nodos tomando en cuenta que se los aplica en la union de 3 a mas componentes para saber la corrientes que salen y entran en dicho nodo despues buscamos la manera de hacer las resistencias mas  pequeñas hasta poder tener un circuito mucho mas facil de calcular:
-
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
-
- En esta parte del proceso nos encontramos en un caso particular por lo que tenemos que aplicar la formula para encontrar la resistencia en un circuito en paralelo en lo cual obtendremos el siguiente circuito:
-
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)
-
- A continuacion vamos a realizar los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
-
-![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
-
-Por ultimos commprobamos en el simulador TINCKERCAD para saber los valores obtenido tengan algun margen de error:
-
-
-
-
-
+![](
 
 
