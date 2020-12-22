@@ -87,7 +87,7 @@ Y obtenemos lo siguiente:
 
 ### CONCLUSIONES:
 
-En nuestra conclusion personal llegamos a que es muy primordial saber las leyes de Kirchhoff por el motivo que tenemos que apredner nuevas tecnicas para calcular voltajes y corrientes, por otra parte en el laboratorio a sido muy interesante usar estos tipos de simuladores en la cual no ayuda a saber como sera el ensamblaje  y los valores que tomaran en los circuitos electricos.
+En nuestra conclusion personal llegamos a que es muy primordial saber las leyes de Kirchhoff por el motivo que tenemos que aprender nuevas tecnicas para calcular voltajes y corrientes, por otra parte en el laboratorio a sido muy interesante usar estos tipos de simuladores en la cual no ayuda a saber como sera el ensamblaje  y los valores que tomaran en los circuitos electricos.
 
 
 
