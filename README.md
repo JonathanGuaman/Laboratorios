@@ -27,11 +27,11 @@
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/main/Img/Mapa%20Conceptual.png)
 
 ### DIAGRAMAS:
-A continuacion vamos a resolver un ejercicio en lo que podamos applicar las leyes de Kirchhoff y la ley de Ohm para tener mas claro sobre el tema:
+
+Circuito electrico:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
 
-Lo primero en realizar es hacer que el circuito electrico se haga mas pequeño por medio de sus resistencias para poder asi obtener un circuito mas facil de calcular:
 
 ### LISTA DE COMPONENTES:
 
