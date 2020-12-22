@@ -55,6 +55,21 @@ Circuito electrico:
  
  Lo primero que tenemos que identificar en el circuito es saber si aplicamos las ley de los nodos tomando en cuenta que se los aplica en la union de 3 a mas componentes para saber la corrientes que salen y entran en dicho nodo despues buscamos la manera de hacer las resistencias mas  pequeñas hasta poder tener un circuito mucho mas facil de calcular, y si no podemos usar la ley de la corrientes para calcular el la corriente en cada voltaje usamos la ley de los voltajes dependiendo de que nos esten pidiendo para calcular pero siempre tenemos que tener en las 2 leyes de Kirchhoff calculan las corrientes y voltajes entrantes y salientes con ello podemos identificar circuitos mas complejos 
 
-![](
+A continuacion vamos a resolver el circuito electrico y al ultimo comprovaremos los resultados en el simulador TINCKERCAD:
+
+Lo primero para resolver el circuito electrico es encontrar la la resistencia equivalente para encontrar la intensidad y aplicar la ley de los nodos:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
+
+Y obtenemos el siguiente circuito:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
+
+Y continuamos hasta conseguir la resistencia  equivalente en este caso podremos sumar todas las resistencias por el motivo que esta su circuito en serie:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%204.png)ç
+
+
+
 
 
