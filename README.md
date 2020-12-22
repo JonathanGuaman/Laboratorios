@@ -53,11 +53,11 @@ Circuito electrico:
 
 ### EXPLICACION:
 
- A continuacion vamos a resolver un ejercicio de circuito electrico en la cual vamos aplicar todo lo que aprendimos sobre las leyes de Kirchhoff y la ley de Ohm:
-
+ A continuacion vamos a explicar como aplicamos las leyes de Kirchhoff y la ley de Ohm para poder resolver el circuito electrico:
+ 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%202.png)
 
- Lo primero en realizar es hacer que el circuito electrico se haga mas pequeño por medio de sus resistencias para asi obtener un circuito mas facil de calcular
+ Lo primero que tenemos que identificar en el circuito es saber si aplicamos las ley de los nodos tomando en cuenta que se los aplica en la union de 3 a mas componentes para saber la corrientes que salen y entran en dicho nodo despues buscamos la manera de hacer las resistencias mas  pequeñas hasta poder tener un circuito mucho mas facil de calcular:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Diagrama%203.png)
 
@@ -68,6 +68,9 @@ Circuito electrico:
  A continuacion vamos a realizar los calculos realizados para encontrar las corrientes y voltajes en cada una de las resistencias:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/c08aaddca765b7a9e09c5fbff672ca88b21c770c/Img/Calculos%20del%20Circuito.png)
+
+Por ultimos commprobamos en el simulador TINCKERCAD para saber los valores obtenido tengan algun margen de error:
+
 
 
 
