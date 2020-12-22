@@ -89,6 +89,17 @@ Y obtenemos lo siguiente:
 
 En nuestra conclusion personal llegamos a que es muy primordial saber las leyes de Kirchhoff por el motivo que tenemos que aprender nuevas tecnicas para calcular voltajes y corrientes, por otra parte en el laboratorio a sido muy interesante usar estos tipos de simuladores en la cual no ayuda a saber como sera el ensamblaje  y los valores que tomaran en los circuitos electricos.
 
+### BIBLIOGRAFIA:
+
+![](http://e-ducativa.catedu.es/44700165/aula/archivos/repositorio/2750/2954/html/42_leyes_de_kirchhoff.html)
+
+
+### ANEXOS:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/main/Img/Calculos%20del%20Circuito.png)
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/main/Tabla%20de%20Valores.png)
+
 
 
 
