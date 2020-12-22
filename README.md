@@ -25,4 +25,5 @@
 
 ### DIAGRAMAS:
 A continuacion vamos a resolver un ejercicio en lo que podamos applicar las leyes de Kirchhoff y la ley de Ohm para tener mas claro sobre el tema:
+
 ![](Img/Diagrama 2.png)
