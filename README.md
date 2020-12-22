@@ -85,7 +85,9 @@ Y obtenemos lo siguiente:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/7686e082ca4de913d3cb7e45c7d5df912e24af38/Img%20%20en%20TINCKERCAD/Diagrama%20en%20TINCKERCAD%20(1).png)
 
+### CONCLUSIONES:
 
+En nuestra conclusion personal llegamos a que es muy primordial saber las leyes de Kirchhoff por el motivo que tenemos que apredner nuevas tecnicas para calcular voltajes y corrientes, por otra parte en el laboratorio a sido muy interesante usar estos tipos de simuladores en la cual no ayuda a saber como sera el ensamblaje  y los valores que tomaran en los circuitos electricos.
 
 
 
