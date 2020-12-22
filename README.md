@@ -73,6 +73,19 @@ Al momento de realizar los calculos respectivos obtenemos lo siguiente:
 
 ![](https://github.com/JonathanGuaman/Laboratorios/blob/7686e082ca4de913d3cb7e45c7d5df912e24af38/Img%20%20en%20TINCKERCAD/Resultados.png)
 
+Al momento de realizar los calculos tenemos que tener en cuenta que estos calculos con en circuitos ideales en lo que el verdadero resultado sera un poco diferente en un simulador en lo que vamos hacer el mismo circuito en el simulador llamado TINCKERCAD:
+
+Y obtenemos lo siguiente:
+
+- Con respecto a su Intensidad 
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/7686e082ca4de913d3cb7e45c7d5df912e24af38/Img%20%20en%20TINCKERCAD/Diagrama%20en%20TINCKERCAD%20(2).png)
+
+- Con respecto a su voltaje en cada resistencia:
+
+![](https://github.com/JonathanGuaman/Laboratorios/blob/7686e082ca4de913d3cb7e45c7d5df912e24af38/Img%20%20en%20TINCKERCAD/Diagrama%20en%20TINCKERCAD%20(1).png)
+
+
 
 
 
